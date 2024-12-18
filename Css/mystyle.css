@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    
+}
+.bg-background{
+    background-image: url(Slide1.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
